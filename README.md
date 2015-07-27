@@ -16,3 +16,5 @@ Cory introduced me to Abby, and we organized the event. November 15th? We held t
 
 ## Upcoming: 2015
 The [Global Day of Code Retreat](http://globalday.coderetreat.org/) is scheduled for November 14, 2015. Interested in helping to organize the event? I think it might be interesting to use Github, exclusively, to organize the event. Create an issue in this repository and we'll start working on it together.
+
+[GDCR: Denver Edition](http://coderetreat.org/events/global-day-of-coderetreat-2015-denver-co-usa/showAttendees?status=attending)
