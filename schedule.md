@@ -1,0 +1,10 @@
+- 08:30 - Breakfast (sponsored by _)
+- 09:00 - Introduction
+- 09:15 - Code Session 1
+- 10:15 - Code Session 2
+- 11:15 - Code Session 3
+- 12:15 - Lunch (sponsored by _)
+- 14:00 - Code Session 4
+- 15:00 - Code Session 5
+- 16:00 - Code Session 6
+- 16:45 - Closing Retrospective
