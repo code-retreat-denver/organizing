@@ -1,0 +1,7 @@
+- Experience levels need to be close
+- start by randomly assigning pairs?
+- name tags?
+- list of three favorite langauges to bring to the party?
+- make sure at least one in the pair has TDD experiene
+- make sure at least one in the pair has some pairing experience
+- 
